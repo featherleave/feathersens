@@ -1,9 +1,15 @@
 Ana: 2.5/7 (38/50) - 1-12-5-100-50-yellow
+
 Baptiste: 3.8 - 1-6-3-100-100-green
+
 Ashe: 4.5, 40.75 zoom - circle-1-0-10-100-0-black
+
 Bastion: 4.25 - 2-5-9-100-100-green
+
 DVA: 9 - 1-8-7-100-100-green
+
 Doom: 4.65
+
 Echo: 5 - 5 dot
 Genji: 9.75 - 2-12-6-100-100
 Hanzo: 4.75 - 1-7-6-100-100
